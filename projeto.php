@@ -38,7 +38,7 @@ echo $string;
 </h4>
 <h4>Vamos agora implementar uma váriável do tipo datas, 
     para implementar a variável com datas , utilizamos 
-uma função própria do PHP desta forma .
+uma função própria do PHP desta forma 
 :
 <? 
 print $data;
