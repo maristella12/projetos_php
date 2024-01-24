@@ -8,7 +8,7 @@
 <body>
     <?
     $string = "Curso na DIO";
-    $numeros = 50;
+    $numeros = 40;
     $array = array("PHP","HTML","CSS","JAVA");
     date_default_timezone_set('America/Sao_Paulo');
     $data = date("d/m/Y  H:i:s");
